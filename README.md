@@ -1,4 +1,4 @@
----Sales Prediction Project---
+Sales forecasting
 Using Linear Regression to predict grocery store sales.
 
 Features:
